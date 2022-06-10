@@ -1,11 +1,10 @@
 {
-  "name": "hello-world",
+  "name": "hello-world-ash-dev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type":"lib/index.d.ts",
   "scripts": {
-    "test": "jest --config jestconfig.json",
     "build": "tsc",
     "lint": "tslint -p tsconfig.json",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
