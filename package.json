@@ -1,5 +1,5 @@
 {
-  "name": "progress-bar-ts",
+  "name": "hello-world",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,8 +20,7 @@
     "url": "git+https://github.com/ashangrajapaksha/progress-bar-ts.git"
   },
   "keywords": [
-    "Progress",
-    "Progress Bar"
+    "hello-world"
   ],
   "author": "",
   "license": "ISC",
